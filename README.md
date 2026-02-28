@@ -2,7 +2,7 @@
 <h2 align="center">⚒️🔧💻 Languages-Frameworks-Tools 💻🔧⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,html,css,mysql,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,git,html,css,react,py,mysql,vscode,github" />
 </div>
 <br>
 
