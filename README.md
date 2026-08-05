@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,git,html,css,react,py,mysql,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,git,html,css,javascript,react,py,mysql,vscode,github,postman,docker" />
 </div>
 <br>
 
